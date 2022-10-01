@@ -9,11 +9,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## **About The Project**
-A game based on the famous arcade game brick breaker.
+A game based on the famous arcade game brick breaker
 
 
 <br/>
-## **Key features**
+### **Key features**
 1. 10 levels with increasing difficulty
 2. Last two levels incorporate unique mechanics
 3. Sound effects

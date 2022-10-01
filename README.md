@@ -33,6 +33,7 @@ A game based on the famous arcade game brick breaker
 ### **Installation**
 The upload is done in accordance with following guide, it also contains information on how to install from git
 <br/>
+<br/>
 [Guide](https://unityatscale.com/unity-version-control-guide/how-to-setup-unity-project-on-github/)
 
 <br/>
